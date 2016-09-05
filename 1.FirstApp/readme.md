@@ -1,11 +1,17 @@
-#First Angular2 RC5 Project with TypeScript and NGModule
+#First Angular2 RC6 Project with TypeScript
 This is my first Angular2 starter project with TypeScript.
-
-#Run
-`npm start`
 
 #Structure
 
-app.component.ts - AppComponent
-app.module.ts - AppModule
-main.ts - Entry Point
+-	app.component.ts - AppComponent
+-	app.module.ts - AppModule
+-	main.ts - Entry Point
+
+
+#Install dependencies, build and run
+```sh
+$ npm install
+
+$ npm start
+```sh
+
